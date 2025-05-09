@@ -5,3 +5,6 @@ Download and use our flyer for meetups or community talks as hand-outs. It's che
 
 English: <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/EN-Bitcoin-flyer-BW-Misty.pdf">
 Bitcoin Flyer with Blue Wallet and Misty Breez</a>
+
+## Support with Translations
+If you want to help and translate the flyer to your language please contact us here: <a href="https://bffbtc.org/translate/">https://bffbtc.org/translate/</a>
