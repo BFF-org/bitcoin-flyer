@@ -4,10 +4,13 @@ Handout for Meetups etc.
 Download and use our flyer for meetups or community talks as hand-outs. It's cheap to print it on an A4 page (front and back) and you can fold it into a small brochure.
 
 ## Flyer with Blue Wallet (on-chain) and Misty Breez (Lightning payments stored on Liquid)
-<p><strong>English</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/EN-Bitcoin-flyer-BW-Misty.pdf">Download English Blue Wallet & Misty Breez</a>
-<p><strong>Portuguese</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/PT-Bitcoin-flyer-BW-Misty.pdf">Download Portuguese Blue Wallet & Misty Breez</a>
-<p><strong>German</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/DE-Bitcoin-flyer-BW-Misty.pdf">Download German Blue Wallet & Misty Breez</a>
 <p><strong>Bemba</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/Bemba-Bitcoin-flyer-BW-Misty.pdf">Download Bemba Blue Wallet & Misty Breez</a>
+<p><strong>English</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/EN-Bitcoin-flyer-BW-Misty.pdf">Download English Blue Wallet & Misty Breez</a>
+<p><strong>German</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/DE-Bitcoin-flyer-BW-Misty.pdf">Download German Blue Wallet & Misty Breez</a>
+<p><strong>Portuguese</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/PT-Bitcoin-flyer-BW-Misty.pdf">Download Portuguese Blue Wallet & Misty Breez</a>
+<p><strong>Swahili</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/SWAHILI-Bitcoin-flyer-BW-Misty.pdf">Download Swahili Blue Wallet & Misty Breez</a>
+<p><strong>Xhosa</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/XHOSA-Bitcoin-flyer-BW-Misty.pdf">Download Xhosa Blue Wallet & Misty Breez</a>
+
 
 ## Flyer with Blue Wallet (on-chain) and Phoenix (Lightning)
 <p><em><strong>Please note:</strong> The flyers listed below include explanations for Blue Wallet and Phoenix. While Phoenix is still one of our best choices as it is fully self-custodial, we switched to recommending Misty Breez as it is less complex to use, offers Lightning addresses and has less startup fees than Phoenix.</em></p>
