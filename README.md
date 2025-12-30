@@ -11,6 +11,7 @@ Download and use our flyer for meetups or community talks as hand-outs. It's che
 <p><strong>Swahili</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/SWAHILI-Bitcoin-flyer-BW-Misty.pdf">Download Swahili Blue Wallet & Misty Breez</a>
 <p><strong>Xhosa</strong> | <a href="https://github.com/BFF-org/bitcoin-flyer/blob/main/XHOSA-Bitcoin-flyer-BW-Misty.pdf">Download Xhosa Blue Wallet & Misty Breez</a>
 
+Thanks to our volunteer translators: Emmanuel, Ndesanjo, Chris, Daniel, Exonumia
 
 ## Flyer with Blue Wallet (on-chain) and Phoenix (Lightning)
 <p><em><strong>Please note:</strong> The flyers listed below include explanations for Blue Wallet and Phoenix. While Phoenix is still one of our best choices as it is fully self-custodial, we switched to recommending Misty Breez as it is less complex to use, offers Lightning addresses and has less startup fees than Phoenix.</em></p>
